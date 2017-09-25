@@ -3,9 +3,9 @@
 Nav menu modeled after the menu on CodePen
 
 ## Screenshot
-![Nav Screen Shot](/images/nav3.jpg)
-![Nav Screen Shot](/images/nav2.jpg)
-![Nav Screen Shot](/images/nav1.jpg)
+![Nav Screen Shot](/images/nav_3.jpg)
+![Nav Screen Shot](/images/nav_2.jpg)
+![Nav Screen Shot](/images/nav_1.jpg)
 
 ## Installation
 ```
